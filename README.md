@@ -9,8 +9,7 @@
 ## 🧠 About Me
 
 * 🧩 Reverse engineering APIs
-* 🔐 Authentication systems (OAuth, tokens, headers)
-* ⚡ Fast scripts & automation tools
+* ⚡ scripts & automation tools
 * 🌐 Working with real-world APIs
 
 ---
