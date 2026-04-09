@@ -22,7 +22,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Telegram Channel 
 
 * Telegram: @rawapi
 
