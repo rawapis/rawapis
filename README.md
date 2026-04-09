@@ -24,5 +24,5 @@
 
 ## 📫 Telegram Channel 
 
-* Telegram: @rawapi
+* [Telegram Channel](https://t.me/rawapis)
 
